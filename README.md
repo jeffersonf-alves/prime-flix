@@ -9,8 +9,9 @@ Aplicação de filmes, onde é possível visualizar filmes recém lançados, not
 ## Tecnologias
 
  - Html, Css
- - Reacj.js
+ - React.js
  - API (the movie db)
+ - react-toastify
  - LocalStorage (banco de dados do próprio navegador)
 
 ## Sobre API
