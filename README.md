@@ -22,3 +22,5 @@ O projeto conta com a integração de um API da **The Movie DB**, uma API gratui
  1. Na raiz do projeto execute **npm install**
  2. Rode o projeto com o comando **npm run dev**
 
+ ### [Clique para acessar a aplicação](https://flourishing-sunshine-821d5b.netlify.app/)
+
