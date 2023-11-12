@@ -1,8 +1,23 @@
-# React + Vite
+# Prime Flix
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplicação de filmes, onde é possível visualizar filmes recém lançados, notas, sinopse e adicionar filmes aos seus favoritos.
 
-Currently, two official plugins are available:
+![image](https://github.com/jeffersonf-alves/prime-flix/assets/61715554/3a1485b2-18f5-4bbb-a3df-eda727af6459)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![image](https://github.com/jeffersonf-alves/prime-flix/assets/61715554/a2fcaa29-7fd1-4d27-96ff-62e842f6c3c2)
+
+## Tecnologias
+
+ - Html, Css
+ - Reacj.js
+ - API (the movie db)
+ - LocalStorage (banco de dados do próprio navegador)
+
+## Sobre API
+O projeto conta com a integração de um API da **The Movie DB**, uma API gratuita e de fácil utilização, para mais informações clique [aqui.](https://www.themoviedb.org/)
+
+## Como executar o projeto localmente
+
+ 1. Na raiz do projeto execute **npm install**
+ 2. Rode o projeto com o comando **npm run dev**
+
